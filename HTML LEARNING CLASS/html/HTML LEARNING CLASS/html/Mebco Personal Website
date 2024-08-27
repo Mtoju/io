@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <title>Mebco Personal Site</title>
+</head> 
+
+<body>
+  <table>
+    <tr>
+      <tb><img src="html/320080214_1107358516639647_7392822415108081770_n.jpg" width="200" height="200" alt="mebco profile picture"> <br></tb>
+      <tb><h1>Mebije Toju</h1>
+        <p><en>Founder and CEO of <strong>The Mebco App</strong></en></p>
+        <p>I am an ios and Web developer. i love❤️ coffee and brew my own beers.</p></tb>
+    </tr>
+  </table>
+        <hr>
+    <ul>
+        <li>The Complete ios App Development Bootcamp</li>
+        <li>The Complete Web Development Bootcamp</li>
+    </ul> 
+    <h3>Work Experience</h3>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Data</th>
+          <th>Work</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2020-2024</td>
+          <td>Lead Developer at Tempo App</td>
+        </tr>
+        <tr>
+          <td>2020</td>
+          <td>Researcher at The Delta State University Science And Technology</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Skills</h3>
+    <tables>
+      <tr>
+        <li><tb>ios Development</tb>
+        <tb> ⭐⭐⭐⭐⭐</tb></li>
+      </tr> 
+      <tr>
+        <li><tb>Web Development</tb> 
+        <tb>⭐⭐⭐⭐⭐</tb></li>
+      </tr>
+      <tr>
+        <li><tb>Photography</tb> 
+        <tb>⭐⭐⭐⭐</tb></li>
+      </tr>
+    </tables>
+    <hr>
+    <a href="hobbies.html">My Hobbies</a>
+    <a href="contact-us.html">Contact Us </a>
+    <a href="#section1">Go to Section 1</a>
+    <!-- Later in the document -->
+    <h2 id="section1">section1</h2>
+</body>
+</html>
+  
+  
